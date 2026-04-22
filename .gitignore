@@ -6,6 +6,9 @@ build/
 bin/
 out/
 
+# Javadoc output
+doc/
+
 # Package Files
 *.jar
 *.war
